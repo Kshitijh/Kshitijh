@@ -43,6 +43,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijh&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijh&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijh&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijh&theme=tokyonight"/>
 </p>
