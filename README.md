@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijh" alt="kshitijh" /></a> </p>
 
+<img align = "right" alt = "Coding" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nitlimited.com%2Fbest-app-development-company-in-ghana%2F&psig=AOvVaw1hD6kktOwt9m1uao-_ZTFv&ust=1759223727419000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCovafR_Y8DFQAAAAAdAAAAABAS">
+
 - 🔭 I’m currently working in **Cybernetik technologies**
 
 - 🌱 I’m currently learning **AWS, DevOps, Reinforcement Learning**
