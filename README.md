@@ -30,6 +30,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kshitij-hupare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/kshitijhupare07"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.instagram.com/kshitijhupare/"><img src="https://share.google/images/7hp5nH4j5pPA6MGoe"/></a>
 </p>
 
 ---
