@@ -29,8 +29,8 @@
 ### 🌎 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/kshitij-hupare"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a87eeada-81ba-4dca-9ec2-1d8cd772b01c" /></a>
-  <a href="https://www.hackerrank.com/kshitijhupare07"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a4d29477-f760-45ee-8d1f-1058474e0c03"/></a>
-  <a href="https://www.instagram.com/kshitijhupare/"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/ec227904-1b1a-4a8f-adca-06f0284966e6"/></a>
+  <a href="https://www.hackerrank.com/kshitijhupare07"><img width="55" height="55" alt="Image" src="https://github.com/user-attachments/assets/a4d29477-f760-45ee-8d1f-1058474e0c03"/></a>
+  <a href="https://www.instagram.com/kshitijhupare/"><img width="55" height="55" alt="Image" src="https://github.com/user-attachments/assets/ec227904-1b1a-4a8f-adca-06f0284966e6"/></a>
 </p>
 
 ---
