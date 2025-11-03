@@ -18,7 +18,7 @@
 - 🌱 Learning **AWS | DevOps | Reinforcement Learning**
 - 💬 Ask me about **React.js, Python, MongoDB, SQL**
 - 📫 Reach me at **kshitijhupare07@gmail.com**
-- 🌐 Portfolio: [**kshitijhupare.com**](https://main.d4pz67iin19wx.amplifyapp.com)
+- 🌐 Portfolio: [**kshitijhupare.com**](https://kshitijhportfolio.netlify.app/)
 
 </p>
 
