@@ -14,7 +14,7 @@
        alt="Developer at work" width="450" align="right" />
 
 ### 👨‍💻 About Me
-- 🔭 Currently working at **Cybernetik Technologies**
+- 🔭 Currently working at **Cybernetik Technologies** as Python Developer
 - 🌱 Learning **AWS | DevOps | Reinforcement Learning**
 - 💬 Ask me about **React.js, Python, MongoDB, SQL**
 - 📫 Reach me at **kshitijhupare07@gmail.com**
